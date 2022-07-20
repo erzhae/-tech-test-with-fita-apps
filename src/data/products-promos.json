@@ -1,0 +1,23 @@
+[
+  {
+    "type": "FREE_PRODUCT",
+    "productSKU": "120P90",
+    "minBuyQty": 2,
+    "discountRate": null,
+    "freeProductSKU": "120P90"
+  },
+  {
+    "type": "FREE_PRODUCT",
+    "productSKU": "43N23P",
+    "minBuyQty": 1,
+    "discountRate": null,
+    "freeProductSKU": "234234"
+  },
+  {
+    "type": "DISCOUNT",
+    "productSKU": "A304SD",
+    "minBuyQty": 3,
+    "discountRate": 0.1,
+    "freeProductSKU": null
+  }
+]
